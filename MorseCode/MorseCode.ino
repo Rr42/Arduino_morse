@@ -33,7 +33,7 @@
 #define Z 35
 
 /// Global variables
-const char PAYLOAD[MX_LENGTH] = "123";
+const char PAYLOAD[MX_LENGTH] = "M123";
 
 const char NUM_TABLE[36][5] = {"-----", // 0
                                ".----", // 1
